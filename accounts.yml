@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to BloodBank accounts related docker APIs "
+  contactDetails:
+    name: "Harshit Kumar - Developer"
+    email: "john@bloodbank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
